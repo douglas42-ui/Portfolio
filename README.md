@@ -4,4 +4,4 @@ Meu portfólio pessoal desenvolvido para apresentar um pouco sobre mim, as ferra
 
 ## 🌐 Acesse o Portfólio
 
-🔗 **[![Preview do Portfólio](assets/portfolio-preview.png)](https://seu-site.com)**
+🔗 **[![Preview do Portfólio](assets/portfolio-preview.png)](https://douglas42-ui.github.io/Portfolio/)**
